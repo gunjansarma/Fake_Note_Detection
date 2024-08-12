@@ -66,8 +66,3 @@ For this project, we focused on the Variance and Skewness attributes to perform 
 
 To run the analysis, use the provided Python scripts and Jupyter notebooks in this repository. Make sure to install the required dependencies listed in `requirements.txt`.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
